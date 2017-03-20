@@ -8,6 +8,7 @@ Get started:
 ```
 1. npm i;
 2. Put your client_id and client_secret in /Home.vue file 
+3. put your redirect uri in you slack app (https://api.slack.com/apps)
 3. npm run dev
 or
 npm run build to the production environment
