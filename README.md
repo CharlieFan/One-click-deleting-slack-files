@@ -12,3 +12,8 @@ Get started:
 or
 npm run build to the production environment
 ```
+
+Usage:
+1. click get started and you will be asked to authorized
+2. choose the files you want to delete
+3.click delete
